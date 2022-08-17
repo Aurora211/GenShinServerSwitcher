@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Genshin__</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <ApplicationIcon>images\GenShin.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="back.png" />
+    <None Remove="bg.jpg" />
+    <None Remove="bili.png" />
+    <None Remove="gear.png" />
+    <None Remove="github.png" />
+    <None Remove="images\background\bg.jpg" />
+    <None Remove="update.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="images\GenShin.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Threading.Analyzers" Version="17.1.46">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Validation" Version="17.0.43" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\ui\gear.png" />
+    <Resource Include="images\ui\back.png" />
+    <Resource Include="images\ui\github.png" />
+    <Resource Include="images\ui\bili.png" />
+    <Resource Include="images\background\bg.jpg" />
+    <Resource Include="images\ui\update.png" />
+  </ItemGroup>
+
+</Project>
