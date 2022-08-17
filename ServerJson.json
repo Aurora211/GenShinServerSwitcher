@@ -1,0 +1,39 @@
+{
+	"updateTime": "2022/8/16 12:00:00",
+	"gameSettings": [
+		{
+			"comment": "bilibili服务器",
+			"info": {
+				"cps": "bilibili",
+				"sub_channel": "0",
+				"channel": "14",
+				"game_version": "2.8.0",
+				"fileRequirements": [
+					{
+						"method": "add",
+						"fileName": "PCGameSDK.dll",
+						"filePath": "%GAMEPATH%/YuanShen_Data/Plugins/PCGameSDK.dll",
+						"fileMd5": "6F19870806A2EA2C41565EBB89F3E73D"
+					}
+				]
+			}
+		},
+		{
+			"comment": "Mihoyo服务器",
+			"info": {
+				"cps": "mihoyo",
+				"sub_channel": 1,
+				"channel": 1,
+				"game_version": "2.8.0",
+				"fileRequirements": [
+					{
+						"method": "remove",
+						"fileName": "PCGameSDK.dll",
+						"filePath": "%GAMEPATH%/YuanShen_Data/Plugins/PCGameSDK.dll",
+						"fileMd5": "6F19870806A2EA2C41565EBB89F3E73D"
+					}
+				]
+			}
+		}
+	]
+}
