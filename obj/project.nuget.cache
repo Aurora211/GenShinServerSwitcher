@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rf7d7uETpNmFLfkUVX57fuvq8IItwCf++CD2yMwyusinaQQF8gD4Pem/0GVso2kH2ddyTOAZ9N6PyN6A/kb9vg==",
+  "success": true,
+  "projectFilePath": "H:\\VisualStudioProject\\Genshin++\\Genshin++.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aurora211\\.nuget\\packages\\microsoft.visualstudio.threading.analyzers\\17.1.46\\microsoft.visualstudio.threading.analyzers.17.1.46.nupkg.sha512",
+    "C:\\Users\\Aurora211\\.nuget\\packages\\microsoft.visualstudio.validation\\17.0.43\\microsoft.visualstudio.validation.17.0.43.nupkg.sha512",
+    "C:\\Users\\Aurora211\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
