@@ -1,5 +1,6 @@
 # GenShen++ - GenShinServerSwitcher
 这是一款第三方原神启动器，具有切换服务器功能，允许解锁FPS限制，自定义窗口大小。  
+演示视频：[哔哩哔哩视频 BV12d4y1o7Xq](https://www.bilibili.com/video/BV12d4y1o7Xq)
 
 ## 系统环境要求
 
