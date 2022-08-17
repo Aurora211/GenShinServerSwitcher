@@ -28,4 +28,6 @@
 
 ## 感谢
 本项目FPS解锁相关操作代码调用来源 [DGP.Genshin.FPSUnlocking](https://github.com/DGP-Studio/DGP.Genshin.FPSUnlocking/) 。  
-感谢DGP-Studio开源此项目。
+感谢DGP-Studio开源此项目。  
+本项目默认背景图来源 [哔哩哔哩视频 BV1sS4y1D7ZP](https://www.bilibili.com/video/BV1sS4y1D7ZP)。  
+感谢UP主嗒当发布这些图片。  
