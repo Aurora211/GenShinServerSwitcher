@@ -11,7 +11,7 @@
 
 ## 下载 GenShin++
 - 你可以在GenShin++仓库的 [发布页面](https://github.com/Aurora211/GenShinServerSwitcher/releases) 下载最新版的GenShen++  
-- 无法访问Github的用户亦可以通过 [阿里云盘](https://www.aliyundrive.com/s/mtbdULpRV2z) 分流下载
+- 无法访问Github的用户亦可以通过 [阿里云盘](https://www.aliyundrive.com/s/2P8odTRmz5u) 分流下载
 
 ## 支持我
 
